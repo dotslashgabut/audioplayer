@@ -3,5 +3,5 @@
 GitHub Repo:
 https://github.com/dotslashgabut/immersive-audio-player-lyric-video-maker
 
-Netlify:
-https://immersiveaudioplayer.netlify.app
+GitHub Page:
+https://dotslashgabut.github.io/audioplayer/
